@@ -1,4 +1,4 @@
-# Deck Glacier — Json Lens
+# Json Lens
 
 A React-powered JSON workbench: live validation, collapsible tree view, format/minify, key sorting and one-click copy.
 
@@ -8,7 +8,7 @@ A React-powered JSON workbench: live validation, collapsible tree view, format/m
 ![stack](https://img.shields.io/badge/stack-html%2Fcss%2Fjs%20%2B%20react-orange)
 ![pages](https://img.shields.io/badge/github%20pages-live-brightgreen)
 
-**[Live Demo](https://ruslanfridenli.github.io/deck-glacier/)** · **[Deutsch ↓](#-deutsch)**
+**[Live Demo](https://ruslanfridenli.github.io/neon-viper/)** · **[Deutsch ↓](#-deutsch)**
 
 </div>
 
@@ -34,8 +34,8 @@ A React-powered JSON workbench: live validation, collapsible tree view, format/m
 ## Local development
 
 ```bash
-git clone https://github.com/ruslanfridenli/deck-glacier.git
-cd deck-glacier
+git clone https://github.com/ruslanfridenli/neon-viper.git
+cd neon-viper
 # open index.html in a browser, or serve statically:
 npx serve .
 ```
@@ -62,8 +62,8 @@ Eine React-JSON-Werkbank: Live-Validierung, einklappbare Baumansicht, Formatiere
 ### Lokale Entwicklung
 
 ```bash
-git clone https://github.com/ruslanfridenli/deck-glacier.git
-cd deck-glacier
+git clone https://github.com/ruslanfridenli/neon-viper.git
+cd neon-viper
 npx serve .
 ```
 
