@@ -46,3 +46,5 @@
 - patch 30 — json lens
 - patch 31 — json lens
 - patch 32 — json lens
+- patch 33 — json lens
+- patch 1 — json lens
