@@ -20,3 +20,4 @@
 - patch 4 — json lens
 - patch 16 — json lens
 - patch 6 — json lens
+- patch 7 — json lens
