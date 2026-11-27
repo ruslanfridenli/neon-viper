@@ -80,3 +80,4 @@
 - patch 31 — json lens
 - patch 32 — json lens
 - patch 33 — json lens
+- patch 34 — json lens
