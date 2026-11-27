@@ -72,3 +72,4 @@
 - patch 23 — json lens
 - patch 24 — json lens
 - patch 25 — json lens
+- patch 26 — json lens
